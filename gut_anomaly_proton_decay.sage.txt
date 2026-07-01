@@ -1,0 +1,13 @@
+# Generative Monism Code Repository
+This repository stores the complete SageMath calculation script supporting the preprint:
+*Generative Monism: Ontological Construction Based on Pure Nothingness Self-Reflection*
+
+Preprint permanent archive: Zenodo (fill your Zenodo link here)
+## Script Function
+1. Compute three triangle gauge anomalies of Standard Model three-generation chiral fermions
+2. Evaluate residual gauge anomalies of $E_6$ 27-dimensional fundamental representation
+3. Calculate MSSM GUT unification scale and proton decay lifetime prediction for experimental comparison
+## Running Environment
+Compatible with online SageMathCell, no local installation required.
+## Reference
+Zhao, Zhongdong. Generative Monism: Ontological Construction Based on Pure Nothingness Self-Reflection, Zenodo, 2026, v1.
